@@ -22,7 +22,7 @@ yararlandırabilecekler.
 - [Çağla Yağmur İçer](https://github.com/caglayagmuricerr) - UI/UX & Mobile Developer
 - [Deniz Erdem](https://github.com/deniz7erdem) - Backend Developer
 - [Emirhan Balcı](https://github.com/EmirhanBalcii) - Mobile Developer
-- [Yakup Abacı](https://github.com/Yakup-Abaci) - Backend Developer
+- [Yakup Abacı](https://github.com/Yakup-Abaci) - Mobile Developer
 
 # Teknolojiler 🛠️
 - Flutter 📱
